@@ -10,6 +10,7 @@
   <img src='https://img.shields.io/badge/Html-orange?style=for-the-badge&logo=html5&logoColor=white'>
   <img src='https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white'>
 </p>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@872867ee-52b8-49c2-9ab5-94b9733eea1d/65d1f993-7c7b-4d5a-9b1d-7ad869144f37.png" width="500"/></a>
 
 <!--
 **askaerlangga/askaerlangga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
