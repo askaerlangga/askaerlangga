@@ -17,7 +17,7 @@
 </a>
 
 ### 👨‍💻 Coding Activity
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@872867ee-52b8-49c2-9ab5-94b9733eea1d/65d1f993-7c7b-4d5a-9b1d-7ad869144f37.png" width="500"/></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@872867ee-52b8-49c2-9ab5-94b9733eea1d/91cfb72d-0af8-4a40-bb90-bba30996cc60.png" width="600"/></a>
 
 <!--
 **askaerlangga/askaerlangga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
